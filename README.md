@@ -9,3 +9,7 @@
 - Running RabbitMQ as message broker.
 
     ![alt text](img/image.png)
+
+- Sending and processing event.
+
+    ![alt text](img/image2.png)
