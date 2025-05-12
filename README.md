@@ -13,3 +13,7 @@
 - Sending and processing event.
 
     ![alt text](img/image2.png)
+
+- Monitoring chart based on publisher.
+    ![alt text](img/image3.png)
+    The spike in the message rate chart occurred because the publisher was run and sent messages. This activity caused a brief increase in the "Publish" rate, which is shown by the purple peaks in the graph. After the messages were published, the rate dropped back to zero, indicating that no further messages were being sent at that moment.
